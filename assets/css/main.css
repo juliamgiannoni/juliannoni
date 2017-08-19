@@ -168,3 +168,8 @@ a:after {
 div.proposal {
     padding-bottom: 30px;
 }
+
+p.copyright {
+    font-size: 8px;
+    margin-bottom: 0;
+}
