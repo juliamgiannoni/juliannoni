@@ -164,3 +164,7 @@ a:after {
 #f img {
 	text-align: center;
 }
+
+div.proposal {
+    padding-bottom: 30px;
+}
