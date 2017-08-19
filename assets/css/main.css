@@ -20,6 +20,10 @@ img.main {
     margin-bottom: 20px;
 }
 
+img.timeline {
+    width: 100%;
+}
+
 
 /* Paragraph & Typographic */
 p {
