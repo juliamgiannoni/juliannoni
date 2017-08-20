@@ -180,3 +180,19 @@ div.proposalgrid {
 div.proposalrow {
     margin: 0px;
 }
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 736px) {
+    img.proposal {
+        margin: 0px;
+    }
+
+    div.proposal {
+        margin-top: -25px;
+    }
+
+    div.proposalrow {
+        margin-bottom: -20px;
+    }
+}
