@@ -173,6 +173,10 @@ p.copyright {
     margin-bottom: 0;
 }
 
-div.proposal {
+div.proposalgrid {
     padding: 0px;
+}
+
+div.proposalrow {
+    margin: 0px;
 }
