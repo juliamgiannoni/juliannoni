@@ -172,3 +172,7 @@ p.copyright {
     font-size: 8px;
     margin-bottom: 0;
 }
+
+div.proposal {
+    padding: 0px;
+}
