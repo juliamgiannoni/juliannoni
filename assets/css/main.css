@@ -22,6 +22,9 @@ img.timeline {
     width: 100%;
 }
 
+img.proposal {
+    margin-bottom: 25px;
+}
 
 /* Paragraph & Typographic */
 p {
@@ -60,7 +63,7 @@ a:after {
     transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
- hr {
+hr {
     display: block;
     height: 1px;
     border: 0;
@@ -163,10 +166,6 @@ a:after {
 
 #f img {
 	text-align: center;
-}
-
-div.proposal {
-    padding-bottom: 30px;
 }
 
 p.copyright {
