@@ -195,4 +195,8 @@ and (max-device-width : 736px) {
     div.proposalrow {
         margin-bottom: -20px;
     }
+
+    p.copyright {
+        margin-top: -20px;
+    }
 }
